@@ -2,12 +2,14 @@
  
 - 👀 I’m interested in :
         Hardware Devices ;
+        Software Development ; 
         Offensive Security
         
 - 🌱 I’m currently learning :
         Artificial Intelligence;
         Soft Computing ;
-        Machine Learning
+        Machine Learning ;
+        Data Analytics
  
 - 💞️ I’m looking to collaborate on :
 
