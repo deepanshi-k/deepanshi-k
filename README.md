@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on :
 
 - 📫 How to reach me :
-        Email - deepanshi.k15@gmail.com ;
+        Email - deepanshikathpal@gmail.com ;
         Instagram - deepanshi._.k
 
 <!---
