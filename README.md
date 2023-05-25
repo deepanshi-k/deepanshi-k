@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @deepanshi-k
+- 👋 Hi, I’m @deepanshi-k and I'm currentlt pursuing BE CSE with specialization of Artificial Intelligence.
  
 - 👀 I’m interested in :
-        Hardware Devices ;
-        Software Development ; 
-        Offensive Security
+        Data Science, Artificial Intelligence, Machine Learning, Deep Learning
         
 - 🌱 I’m currently learning :
         Artificial Intelligence;
@@ -11,7 +9,8 @@
         Machine Learning ;
         Data Analytics
  
-- 💞️ I’m looking to collaborate on :
+- 💞️ I’m looking to collaborate on : 
+        Machine Learning Projects
 
 - 📫 How to reach me :
         Email - deepanshikathpal@gmail.com ;
