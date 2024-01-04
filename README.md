@@ -7,10 +7,11 @@
         Artificial Intelligence;
         Soft Computing ;
         Machine Learning ;
+        Deep Learning ;
         Data Analytics
  
 - 💞️ I’m looking to collaborate on : 
-        Machine Learning Projects
+        Machine Learning and Deep Learning Projects
 
 - 📫 How to reach me :
         Email - deepanshikathpal@gmail.com ;
